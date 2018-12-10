@@ -2,7 +2,9 @@
 
 
 CS325B, Autumn 2018
+
 **Automated Detection of Humanitarian Structures in Refugee Camps**
+
 *Emma Marriott, Robert Young, Dan Sambor*
 
 ## Colabs
