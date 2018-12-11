@@ -16,6 +16,6 @@ Step 2: [Generating TFRecords](https://colab.research.google.com/drive/1hIyRvmAv
 
 Step 3a: [Fine Tuning an Object Detection Model](https://colab.research.google.com/drive/14_XPbbOoBkUd2pwyk42jl0lsijjD6yXZ)
 
-Step 3b: Training a Hybrid Classification/Regression Model
+Step 3b: [Training a Hybrid Classification/Regression Model](https://github.com/mekmarriott/HumanitarianStructureDetection/blob/master/Hybrid_Model.ipynb)
 
 Step 4: [Creating a Ground Truth Evaluation](https://colab.research.google.com/drive/14_XPbbOoBkUd2pwyk42jl0lsijjD6yXZ)
